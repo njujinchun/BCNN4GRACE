@@ -22,7 +22,7 @@ python train_svgd.py
 ```
 The parameter settings can be modified in args.py. Two network arechitectures, CBAM and RRDB, are provided. The latter is deeper and slower, but it can generally provide a slightly better performance. 
 
-## Reference GRACE(-FO) TWSA field (a), BCNN' reconstruction (b) and predictive uncertainty (c)
+## Reference GRACE(-FO) TWSA field (a), BCNN's reconstruction (b) and predictive uncertainty (c)
 
 ![](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_preditions.gif)
 
