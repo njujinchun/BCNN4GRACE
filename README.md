@@ -14,6 +14,7 @@ This is a PyTorch implementation of Bayesian Convolutional Neural Network (BCNN)
 ```
 python train_svgd.py
 ```
+The parameter settings can be modified in args.py. Two network arechitectures, CBAM and RRDB, are provided. The latter is deeper and slower, but it can generally provide a slightly better performance. 
 
 ## BCNN network architecture
 
