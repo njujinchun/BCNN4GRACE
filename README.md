@@ -11,7 +11,7 @@ This is a PyTorch implementation of Bayesian Convolutional Neural Network (BCNN)
 * scipy
 
 ## BCNN network architecture
-![BCNN architecture](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_arch-1.png)
+![](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_arch-1.png)
 
 ## Datasets
 The BCNN reconstructed data are available at [https://zenodo.org/record/4589755](https://zenodo.org/record/4589755). We have also uploaded the datasets used for BCNN training to [Google Drive](https://drive.google.com/drive/folders/1TEEt8ssKEq9k5-VOe21DHBURKuFfhhqp?usp=sharing). One can download the datasets and train BCNN to reproduce our results.
@@ -28,7 +28,7 @@ The parameter settings can be modified in args.py. Two network arechitectures, C
 
 ### The BCNN-identified drought regions during the GRACE and GRACE-FO gap (July 2017-May 2018)
 
-![The BCNN-identified drought regions during the GRACE and GRACE-FO gap (July 2017-May 2018)](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_WSDI_201707_201805.png)
+![](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_WSDI_201707_201805.png)
 
 
 
