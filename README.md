@@ -23,14 +23,10 @@ python train_svgd.py
 The parameter settings can be modified in args.py. Two network arechitectures, CBAM and RRDB, are provided. The latter is deeper and slower, but it can generally provide a slightly better performance. 
 
 ### Reference GRACE(-FO) TWSA field (a), BCNN's reconstruction (b) and predictive uncertainty (c)
-
 ![](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_preditions.gif)
 
 ### The BCNN-identified drought regions during the GRACE and GRACE-FO gap (July 2017-May 2018)
-
 ![](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_WSDI_201707_201805.png)
-
-
 
 ## Citation
 See [Mo et al. (2022a)](https://doi.org/10.1029/2022WR031997) and [Mo et al. (2022b)](https://www.sciencedirect.com/science/article/pii/S0022169421012944) for more information. If you find this repo useful for your research, please consider to cite:
