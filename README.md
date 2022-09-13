@@ -20,7 +20,7 @@ The BCNN reconstructed data are available at [https://zenodo.org/record/4589755]
 ```
 python train_svgd.py
 ```
-The parameter settings can be modified in args.py. Two network arechitectures, CBAM and RRDB, are provided. The latter is deeper and slower, but it can generally provide a slightly better performance. 
+The parameter settings can be modified in args.py. Two network arechitectures, CBAM and RRDB, are provided. The latter is deeper and slower, but it can generally provide a slightly better performance. The CBAM and RRDB architectures are respectively employed in our [JoH paper](https://doi.org/10.1016/j.jhydrol.2021.127244) and [WRR paper](https://doi.org/10.1029/2022WR031997).
 
 ### Reference GRACE(-FO) TWSA field (a), BCNN's reconstruction (b) and predictive uncertainty (c)
 ![](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_preditions.gif)
