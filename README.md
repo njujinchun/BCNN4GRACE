@@ -35,12 +35,13 @@ The parameter settings can be modified in args.py. Two network arechitectures, C
 See [Mo et al. (2022a)](https://doi.org/10.1029/2022WR031997) and [Mo et al. (2022b)](https://www.sciencedirect.com/science/article/pii/S0022169421012944) for more information. If you find this repo useful for your research, please consider to cite:
 
 ```
-* Mo, S., Zhong, Y., Forootan, E., Shi, X., Feng, W., Yin, X., Wu, J. (2022a). Hydrological droughts of 2017–2018 explained by the 
-Bayesian reconstruction of GRACE(-FO) fields. Water Resources Research, 58, e2022WR031997. https://doi.org/10.1029/2022WR031997
+* Mo, S., Zhong, Y., Forootan, E., Shi, X., Feng, W., Yin, X., Wu, J. (2022a). Hydrological droughts of 
+2017–2018 explained by the Bayesian reconstruction of GRACE(-FO) fields. Water Resources Research, 58, 
+e2022WR031997. https://doi.org/10.1029/2022WR031997
 
-* Mo, S., Zhong, Y., Forootan, E., Mehrnegar, N., Yin, X., Wu, J., Feng, W., Shi, X. (2022b). Bayesian convolutional neural networks 
-for predicting the terrestrial water storage anomalies during GRACE and GRACE-FO gap. Journal of Hydrology, 604, 127244. 
-https://doi.org/10.1016/j.jhydrol.2021.127244
+* Mo, S., Zhong, Y., Forootan, E., Mehrnegar, N., Yin, X., Wu, J., Feng, W., Shi, X. (2022b). Bayesian 
+convolutional neural networks for predicting the terrestrial water storage anomalies during GRACE and 
+GRACE-FO gap. Journal of Hydrology, 604, 127244. https://doi.org/10.1016/j.jhydrol.2021.127244
 ```
 Related article: [Zhu, Y., & Zabaras, N. (2018). Bayesian deep convolutional encoder–decoder networks for surrogate modeling and uncertainty quantification. J. Comput. Phys., 366, 415-447.](https://www.sciencedirect.com/science/article/pii/S0021999118302341)
 
