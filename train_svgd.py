@@ -35,10 +35,8 @@ print('Loaded data!')
 
 # deterministic NN
 if args.net == 'RRDB':
-    # from models.RRDB import Net
-    # model = Net(nic, noc, nf=args.features,act_fun=args.act_fun).to(device)
-    from RRDBdua import RRDBdua
-    model = RRDBdua(nic, noc, nf=args.features,act_fun=args.act_fun).to(device)
+    from models.RRDB import Net
+    model = Net(nic, noc, nf=args.features,act_fun=args.act_fun).to(device)
 else:
     from models.CBAM import Net
     model = Net(nic, noc, nf=args.features,act_fun=args.act_fun).to(device)
