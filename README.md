@@ -14,7 +14,7 @@ This is a PyTorch implementation of Bayesian Convolutional Neural Network (BCNN)
 ![](https://github.com/njujinchun/BCNN4GRACE/blob/main/imgs/BCNN_arch-1.png)
 
 ## Datasets
-The BCNN reconstructed data are available at [https://zenodo.org/record/4589755](https://zenodo.org/record/4589755). We have also uploaded the datasets used for BCNN training to [Google Drive](https://drive.google.com/drive/folders/1TEEt8ssKEq9k5-VOe21DHBURKuFfhhqp?usp=sharing). One can download the datasets and train BCNN to reproduce our results.
+The BCNN reconstructed data are available at [https://zenodo.org/record/5336992](https://zenodo.org/record/5336992). We have also uploaded the datasets used for BCNN training to [Google Drive](https://drive.google.com/drive/folders/1TEEt8ssKEq9k5-VOe21DHBURKuFfhhqp?usp=sharing). One can download the datasets and train BCNN to reproduce our results.
 
 ## Network Training
 ```
